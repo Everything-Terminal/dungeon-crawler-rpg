@@ -1,0 +1,12 @@
+# Compiled binary
+dungeon
+*.o
+*.exe
+
+# Save files
+*.dat
+
+# Editor files
+*.swp
+*.swo
+*~
